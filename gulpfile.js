@@ -8,8 +8,8 @@ var config = {
 		dist: "./public"
 };
 var paths = {
-	html: "**/*.html",//** busqueda a partir de la carpeta en que se encuentra
-	sass: "assets/scss/**/*.scss", //*busqueda en todo
+	html: "*.html",//** busqueda a partir de la carpeta en que se encuentra
+	sass: "assets/scss/*.scss", //*busqueda en todo
 	mainSass:"assets/scss/main.scss",
   js: "assets/js/*.js",
   img: "assets/img/*.*"
