@@ -1,3 +1,10 @@
+$text-white: white;
+
 body{
-  background: red + blue;
+  background: pink;
+  color: $text-white;
+}
+
+.centrar{
+  text-align: center;
 }
